@@ -1,0 +1,19 @@
+.productId{
+
+   .productId__path{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex-wrap: wrap;
+
+    .ProductId__point{
+        color: var(--color-red);
+        font-size: 8px;
+    }
+    .productId__nameProduct{
+        color: #515151;
+    }
+   }
+    margin: 0 auto;
+    max-width: 1200px;
+}

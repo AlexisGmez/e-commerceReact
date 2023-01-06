@@ -1,0 +1,12 @@
+.cart{
+    margin: 0 auto;
+    max-width: 1200px;
+
+    .cart__list{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        margin: 10px;
+
+    }
+}
